@@ -53,6 +53,9 @@ nav{
     display: flex;
     justify-content: center;
 }
+.aabout{
+    color: #99711a;
+}
 .slider{
     width: 800px;
     height: 500px;
